@@ -15,3 +15,4 @@ jobs:
       run: sudo m-a prepare
     - name: build
       run: make
+
